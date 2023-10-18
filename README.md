@@ -12,6 +12,9 @@ using SetterInjection method.](https://github.com/Mohdjariullah/javamaven/tree/m
 [8: Write a SpringCore program and inject the object 
 using FieldInjection method.](https://github.com/Mohdjariullah/javamaven/tree/main/8th_program)
 
+[9: Write a simple program using spring boot to display
+student information using appropriate annotations.](https://github.com/Mohdjariullah/javamaven/tree/main/9th_program)
+
 ------
 
 # How to use these files/projects?
