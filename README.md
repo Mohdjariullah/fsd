@@ -37,6 +37,10 @@ student information using appropriate annotations.](https://github.com/Mohdjariu
   <img src="https://github.com/Mohdjariullah/javamaven/assets/112340610/33df0afc-6f4d-485d-a390-7960cab40f13" alt="Image Description">
 </div>
 
+-> Select Directory here
+<div align="center">
+  <img src="https://github.com/Mohdjariullah/javamaven/assets/112340610/eba187dd-643a-4a70-979c-f275054ae81d" alt="Image Description">
+</div>
 
 -> Goto Downloads and Open the folder(It opens in Eclipse) and wait for Few Seconds to Fetch Maven dependencies.
 <div align="center">
