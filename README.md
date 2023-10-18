@@ -4,11 +4,11 @@
 using MethodInjection]()
 
 [6: Write a SpringCore program and inject the object 
-using ConstructorInjection method.]()
+using ConstructorInjection method.](https://github.com/Mohdjariullah/javamaven/tree/main/6th_program)
 
 [7: Write a SpringCore program and inject the object 
-using SetterInjection method.]()
+using SetterInjection method.](https://github.com/Mohdjariullah/javamaven/tree/main/7th_program)
 
 [8: Write a SpringCore program and inject the object 
-using FieldInjection method.]()
+using FieldInjection method.](https://github.com/Mohdjariullah/javamaven/tree/main/8th_program)
 
